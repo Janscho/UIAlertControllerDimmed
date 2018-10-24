@@ -21,3 +21,6 @@ alertController.presentWithGrayBackground()
 ```
 
 Simply use `UIAlertControllerDimmed` instead of `UIAlertController` and call `presentWithGrayBackground`.
+
+
+[SO question that led to that repo](https://stackoverflow.com/questions/52932418/uialertcontroller-does-not-turn-all-elements-in-the-background-to-b-w)
